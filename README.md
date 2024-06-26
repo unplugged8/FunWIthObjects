@@ -9,4 +9,9 @@
 
 ## Wymagania:
 * slowo 'unsafe" musi byc uzyte w glownym programie
-* wlaczona opcja Properties -> Build -> Unsafe code -> Allow code that uses the 'unsafe' keyword to compile.
+* wlaczona opcja Properties -> Build -> Unsafe code -> Allow code that uses the 'unsafe' keyword to compile
+
+## Metoda na sprawdzenie czy pointer jest obiektem:
+Nie mozna sprawdzic czy pointer jest obiektem uzywajac metody 'ptr is object' ponieważ:
+* pointer nie jest obiektem
+* kod bledu 'CS0244' - The is and as operators are not valid for use on pointer types.
