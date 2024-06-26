@@ -1,7 +1,7 @@
-# FunWIthObjects
+# FunWithObjects
 
-Dowod na to, ze nie wszystko jest obiektem w C#.
-Cel: 5.0 na koniec semestru :)
+* Dowod na to, ze nie wszystko jest obiektem w C#.
+* Cel: 5.0 na koniec semestru :)
 
 ## Zrodlo:
 * https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/unsafe-code
