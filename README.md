@@ -9,4 +9,4 @@
 
 ## Wymagania:
 * slowo 'unsafe" musi byc uzyte w glownym programie
-* wlaczona opcja Properties -> Build -> Unsafe code -> Allow code that uses the 'unsafe' keyword to compile."
+* wlaczona opcja Properties -> Build -> Unsafe code -> Allow code that uses the 'unsafe' keyword to compile.
