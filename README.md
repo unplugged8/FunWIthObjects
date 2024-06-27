@@ -17,3 +17,5 @@
 Nie mozna sprawdzic czy pointer jest obiektem uzywajac metody 'ptr is object' ponieważ:
 * pointer nie jest obiektem
 * kod bledu 'CS0244' - The is and as operators are not valid for use on pointer types.
+* ![image](https://github.com/unplugged8/FunWIthObjects/assets/77389165/aaae453b-d33c-4fd2-af45-9d1740812730)
+
