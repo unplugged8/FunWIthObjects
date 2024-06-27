@@ -6,6 +6,8 @@
 ## Zrodlo:
 * https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/unsafe-code
 * dowod: "Pointer types don't inherit from object and no conversions exist between pointer types and object. Also, boxing and unboxing don't support pointers."
+* ![image](https://github.com/unplugged8/FunWIthObjects/assets/77389165/a9915681-9e05-44b0-9cd5-c053d4ba4044)
+
 
 ## Wymagania:
 * slowo 'unsafe" musi byc uzyte w glownym programie
